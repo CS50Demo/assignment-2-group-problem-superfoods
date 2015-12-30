@@ -113,3 +113,6 @@ def keySearch(L, k):
     for elem in L:
         if elem[0] == k: return elem[1]
     return None
+
+------------------------------------------------------
+#Adapted from ["Introduction to Computer Science and Programming"](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-2-core-elements-of-a-program/MIT6_00SCS11_ps0.pdf) MIT OpencCourseWare Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
