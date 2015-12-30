@@ -1,7 +1,7 @@
 # Problem Set 2
 Second assignment in CS50
 
-1. What does the following code print?
+1.  What does the following code print?
 
 <pre><code>def f(s):
  if len(s) <= 1:
@@ -11,7 +11,7 @@ print f('mat')
 print f('math')
 </code></pre>
 
-2. Implement the body of the function below.
+2.  Implement the body of the function below.
 
 <pre><code>
 def findAll(wordList, lStr):
@@ -24,7 +24,7 @@ def findAll(wordList, lStr):
 
 </code></pre>
 
-3. Consider the following code. What does it print?
+3.  Consider the following code. What does it print?
 
 <pre><code>
 def logBase2(n):
