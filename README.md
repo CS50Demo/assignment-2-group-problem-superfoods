@@ -8,8 +8,10 @@ Second assignment in CS50
 In this file "README.md" fill in down the number of hours (roughly) you spent on the
 problems in that part, and the names of the people you collaborated with.
 
-## For example:
+## Group Assessment
 - Assignment 2
-- Name: Zara
-- Collaborators: Shay, Max
+- Collaborators: Shay, Max, Evelyn
 - Time Spent: 3:30
+- Story 1: Evenlyn, sign in and schedule
+- Story 2: Shay, map integration
+- Story 3: Max, user testing
