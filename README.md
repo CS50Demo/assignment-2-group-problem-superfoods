@@ -10,7 +10,7 @@ problems in that part, and the names of the people you collaborated with.
 
 ## Group Assessment
 - Assignment 2
-- Collaborators: Shay, Max, Evelyn
+- Collaborators: @Studentshay, @StudentMax, @StudentEvelyn
 - Time Spent: 3:30
 - Story 1: Evenlyn, sign in and schedule
 - Story 2: Shay, map integration
